@@ -45,7 +45,7 @@ submissions:
         View Layer: 0
   Andy Mention, Emily Davis:
     repository: git@github.com:AndyDangerous/lodojimmys.git
-    setup_notes: ""
+    setup_notes: "login is in lower left corner - username: "admin", password: "password""
     instructor_evaluation:
       notes: ""
       rubric:
@@ -108,7 +108,7 @@ submissions:
         View Layer: 0
   Tim Proctor, Tan Doan, Will Faurot: 
     repository: https://github.com/timproctor/clone_wars.git
-    setup_notes: ""
+    setup_notes: "login in the lower left: username= 'jon' password= 'snow'"
     instructor_evaluation:
       notes: ""
       rubric:
