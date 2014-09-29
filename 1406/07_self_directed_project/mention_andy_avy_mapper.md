@@ -6,7 +6,7 @@ An open source for user-contributed avalanche observation and analysis
 
 #### Description
 
-The [Colorado Avalanche Information Center](http://avalanche.state.co.us/) maintains a database of avalanche observations, but there isn't much of a spatial component to it.  Users would be able to view avalanches around the state and query the database to learn more about patterns in avalanches over time and space. This type of tool is currently only available to some researchers. It would provide registered users with the ability to create new avalanche observations (e.g. )
+The [Colorado Avalanche Information Center](http://avalanche.state.co.us/) maintains a database of avalanche observations, but there isn't much of a spatial component to it.  Users would be able to view avalanches around the state and query the database to learn more about patterns in avalanches over time and space. This type of tool is currently only available to some researchers. It would provide registered users with the ability to create new avalanche observations (e.g. http://avalanche.state.co.us/observations/submit-a-report/, but also including a spatial component or taking one from a cell phone picture with GPS coordinates)
 
 #### Target Audience
 
